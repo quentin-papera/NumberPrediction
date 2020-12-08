@@ -1,2 +1,3 @@
 # NumberPrediction
-# Simple console app using C#
+# Console app using C#
+# simple app that predicts a random number between 1 - 20
